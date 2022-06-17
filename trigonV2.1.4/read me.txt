@@ -1,0 +1,2 @@
+if it does not work run crash fix
+also u have to run the program before you do anything else because it downloads every asset almost like a boot strapper
